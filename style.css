@@ -1,0 +1,55 @@
+img {
+    border: solid;
+    border-color:white;
+}
+
+
+.header {
+    display: flex;
+    color: whitesmoke;
+    background-color: black;
+    justify-content: space-between;
+}
+
+.pigeon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: black;
+}    
+
+.teddy-bear {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: black;
+}
+
+.panda {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: black;
+}
+
+.intro {
+    background-color: black;
+}
+
+.hello{
+    display: flex;
+    flex-wrap:wrap;
+    color: white;
+    justify-content: space-evenly;
+
+}
+
